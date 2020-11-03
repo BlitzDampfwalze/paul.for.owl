@@ -37,6 +37,11 @@ ol, ul {
 	list-style: none;
 }
 
+.intro-p {
+	font-size: 1.4em;
+	/* margin-bottom: -1%; */
+}
+
 blockquote, q {
 	quotes: none;
 }
