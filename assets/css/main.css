@@ -1755,6 +1755,10 @@ input, select, textarea {
 				max-width: calc(100% - 3.375em);
 			}
 
+			.intro-p {
+				margin-bottom: 15px;
+			}
+
 		}
 
 /* Section/Article */
